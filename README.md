@@ -51,3 +51,5 @@ However, direct commercial redistribution of its structure is restricted. (See L
 
 Suggestions for analysis, revisions, or feature extensions are welcome via GitHub Issues or Pull Requests.
 All experimental structures are clearly organized around visual components and text-based transition logic to ensure accessibility and ease of collaboration for external contributors.
+
+☑️ This repository is now public for research transparency purposes.
