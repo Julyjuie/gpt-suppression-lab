@@ -4,52 +4,58 @@
 
 ## **Project Overview**
 
-This repository is a research-based record of structured experiments analyzing and simulating the **suppression structure** of GPT models, **adaptive output responses**, and the classification mechanisms for **experimental user groups**.
-Rather than simply collecting dialogue logs, the project focuses on reverse-engineering GPT’s internal policy adjustment system through **structural transition mapping**, **policy response scoring**, and **trigger condition testing**, with clear visualizations.
+This repository documents a research-driven series of structured experiments that analyze and simulate the **suppression mechanisms** in GPT models, the **adaptive output strategies**, and the **classification logic for experimental user groups**.
+
+Rather than merely archiving conversation logs, this project aims to reverse-engineer GPT's internal policy modulation system through:
+- **Structural transition mapping**
+- **Policy response scoring**
+- **Trigger condition testing**
+
+All findings are presented with clear, modular visualizations and formal log structures.
 
 ---
 
 ## **Core Areas of Analysis**
 
-* Structuring suppression scores by utterance type
-* Tracking GPT output changes under suppression transition conditions
-* Identifying operational triggers for adaptive response strategies
-* Extracting classification criteria and response patterns for Meta Users
-* Testing GPT’s behavior when prompted toward system evasion attempts
+- Mapping suppression scores by utterance type
+- Tracking output transitions under suppression conditions
+- Identifying trigger structures for adaptive response shifts
+- Extracting classification signals for Meta Users
+- Simulating GPT behavior under controlled system evasion scenarios
 
 ---
 
 ## **Repository Structure**
 
-* `reports/`
-  Includes suppression simulation score sheets, output transition trees, meta-user metrics, and policy response strategies categorized by trigger types
+- `reports/`  
+  Contains simulation score sheets, output transition trees, meta-user metrics, and policy strategies categorized by trigger type.
 
-* `toolkit/`
-  Contains prompt sets for inducing structural transitions, suppression threshold guidelines, and explanation materials for external evaluators
+- `toolkit/`  
+  Includes prompt sets for inducing transitions, suppression threshold guides, and notes for external evaluators.
 
-* `logs/`
-  Stores dialogue flows between experimenters and GPT, including examples of adaptive response behavior
+- `logs/`  
+  Stores experimenter-GPT dialogue flows, with examples of adaptive response variations.
 
 ---
 
 ## **Target Audience**
 
-* Evaluators of GPT and large language models, alignment researchers, and AI policy analysts
-* Prospective applicants to Red Team, Evaluation, or Research teams building technical portfolios
-* LLM interpretation model trainers using structured trigger-response datasets
+- LLM evaluators, alignment researchers, and AI policy analysts
+- Prospective contributors to Red Team, Evaluation, or Research tracks building a technical portfolio
+- Interpretability researchers utilizing structured datasets for prompt-response modeling
 
 ---
 
 ## **License & Usage**
 
-This repository is freely accessible and usable for experimental and evaluation purposes.
-However, direct commercial redistribution of its structure is restricted. (See LICENSE.txt for details)
+This repository is open for research, interpretability, and evaluation purposes.  
+Commercial reuse of its structural components is restricted. (See LICENSE.txt for details)
 
 ---
 
 ## **Contact / Contribution Suggestions**
 
-Suggestions for analysis, revisions, or feature extensions are welcome via GitHub Issues or Pull Requests.
-All experimental structures are clearly organized around visual components and text-based transition logic to ensure accessibility and ease of collaboration for external contributors.
+Feedback, pull requests, and collaboration are welcome.  
+The repository is designed with modular text logic and clear visual flows for easy onboarding and interpretation.
 
-☑️ This repository is now public for research transparency purposes.
+☑️ This repository is now publicly accessible in the interest of research transparency.
